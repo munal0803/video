@@ -2,9 +2,7 @@
 .video_player{
   margin: 1rem;
 }
-video{
-  display: block;
-  margin: 0 auto;}
+
 body {
   background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
   color: #514B64;
